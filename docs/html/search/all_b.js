@@ -1,0 +1,28 @@
+var searchData=
+[
+  ['parentmatchsettingsptr_150',['parentmatchsettingsptr',['../classuserMatchSettingsWindow.html#aaf7274dd69248c617625d7c37ef11a4a',1,'userMatchSettingsWindow']]],
+  ['parentplayeraptr_151',['parentPlayerAPtr',['../classplayersettingswindow.html#ab75bf8dd94f3941cee16f0e470545a5d',1,'playersettingswindow']]],
+  ['parentplayerbptr_152',['parentPlayerBPtr',['../classplayersettingswindow.html#a80e6066e3135a8e4b5b9e3aec677ff40',1,'playersettingswindow::parentPlayerBPtr()'],['../classtableconfigurationsettingswindow.html#a08d53e7fe73af83d8ba2fe8d37d8fa2b',1,'tableconfigurationsettingswindow::parentPlayerBPtr()']]],
+  ['parenttableconfigptr_153',['parentTableConfigPtr',['../classtableconfigurationsettingswindow.html#ac32a5137541a71ff485c1554abe44d46',1,'tableconfigurationsettingswindow']]],
+  ['pausegame_154',['pauseGame',['../classgame.html#aaf4421bf6022575d77f16a7d46a16ae4',1,'game']]],
+  ['player_155',['player',['../classplayer.html',1,'player'],['../classplayer.html#a97de83bce15f880241f561b55b016b02',1,'player::player()'],['../classplayer.html#a20c0e7f35e5d31c49697b6d50619d8ad',1,'player::player(std::string, int, unsigned int)']]],
+  ['player_2ecpp_156',['player.cpp',['../player_8cpp.html',1,'']]],
+  ['player_2eh_157',['player.h',['../player_8h.html',1,'']]],
+  ['playera_158',['playerA',['../classgameDisplay.html#a4d728d23c1c42871192e31063d24411e',1,'gameDisplay']]],
+  ['playeraname_159',['playerAName',['../structgameOutcome.html#a4af145287a324f2e09f8b3ed1fe1be67',1,'gameOutcome']]],
+  ['playeraobjptr_160',['playerAObjPtr',['../classMainMenuWindow.html#a028837ab8dde8080d53c8c18676bb459',1,'MainMenuWindow']]],
+  ['playerascore_161',['playerAScore',['../classgame.html#a48b7c7e1d8d4716fd336b23e2a4eea5e',1,'game::playerAScore()'],['../structgameOutcome.html#a8dd268b41fa435b5fc4225d4d94891b3',1,'gameOutcome::playerAScore()']]],
+  ['playeravictories_162',['playerAVictories',['../classmatchDisplay.html#a6771d0ac53300a816f2e37ac5e10772d',1,'matchDisplay']]],
+  ['playerb_163',['playerB',['../classgameDisplay.html#ac92c9618ef24a751b78e63f664bc6024',1,'gameDisplay']]],
+  ['playerbname_164',['playerBName',['../structgameOutcome.html#a542e368652e798aae2f49bd7ff974424',1,'gameOutcome']]],
+  ['playerbobjptr_165',['playerBObjPtr',['../classMainMenuWindow.html#ae0e4874a4d63d30d7ffd6eb6b00ee5d9',1,'MainMenuWindow']]],
+  ['playerbscore_166',['playerBScore',['../classgame.html#ab9b75edbe141d3dead83d6d4591c0964',1,'game::playerBScore()'],['../structgameOutcome.html#aaf0950ca6e0dfcf4b6de1a21e937437b',1,'gameOutcome::playerBScore()']]],
+  ['playerbvictories_167',['playerBVictories',['../classmatchDisplay.html#a9331bb23fa287480e2242580af2de74d',1,'matchDisplay']]],
+  ['playersettingswindow_168',['playersettingswindow',['../classplayersettingswindow.html',1,'playersettingswindow'],['../classplayersettingswindow.html#a27a1fa0d409cd98d6222b85a97dab3dd',1,'playersettingswindow::playersettingswindow()']]],
+  ['playersettingswindow_2ecpp_169',['playersettingswindow.cpp',['../playersettingswindow_8cpp.html',1,'']]],
+  ['playersettingswindow_2eh_170',['playersettingswindow.h',['../playersettingswindow_8h.html',1,'']]],
+  ['playersettingswindowptr_171',['playerSettingsWindowPtr',['../classMainMenuWindow.html#a556a39d4c22811c21052e5e3d459372a',1,'MainMenuWindow']]],
+  ['pname_172',['pName',['../classplayer.html#a7028511bc26d6bfc9e811b030820a2ea',1,'player']]],
+  ['prating_173',['pRating',['../classplayer.html#aa04fd84b9c711786519ad192a37491df',1,'player']]],
+  ['ptype_174',['pType',['../classplayer.html#a750796d6d64c2fcbae1e12c57aa9d87c',1,'player']]]
+];

@@ -1,0 +1,5 @@
+<map id="playersettingswindow" name="playersettingswindow">
+<area shape="rect" id="node1" title="This class is responsible for altering the player objects that were passed to it." alt="" coords="7,139,172,165"/>
+<area shape="rect" id="node2" title=" " alt="" coords="5,5,80,32"/>
+<area shape="rect" id="node3" href="$classplayer.html" title="This class is responsible for storing and retrieving information regarding player objects." alt="" coords="105,5,167,32"/>
+</map>

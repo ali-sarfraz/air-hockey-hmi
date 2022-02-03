@@ -1,0 +1,20 @@
+<map id="tableconfigurationsettings.cpp" name="tableconfigurationsettings.cpp">
+<area shape="rect" id="node1" title="Implementation file used to implement the tableconfigurationsettings class." alt="" coords="561,5,780,32"/>
+<area shape="rect" id="node2" href="$tableconfigurationsettings_8h.html" title="Header file used to declare the tableconfigurationsettings class." alt="" coords="569,80,773,107"/>
+<area shape="rect" id="node3" href="$MessagePacket_8h.html" title="Header file used to declare the MessagePacket class. The MessagePacket class is responsible for creat..." alt="" coords="27,229,162,256"/>
+<area shape="rect" id="node7" href="$MessageHandler_8h.html" title="Header file used to declare the MessageHandler class. The MessageHandler class is designed using a Si..." alt="" coords="545,155,687,181"/>
+<area shape="rect" id="node17" href="$MessageLibrary_8h.html" title="Header file responsible for creating the library of valid string messages that can be sent to the emb..." alt="" coords="1105,229,1239,256"/>
+<area shape="rect" id="node18" title=" " alt="" coords="763,155,877,181"/>
+<area shape="rect" id="node4" title=" " alt="" coords="115,304,173,331"/>
+<area shape="rect" id="node5" title=" " alt="" coords="637,304,712,331"/>
+<area shape="rect" id="node6" title=" " alt="" coords="5,304,85,331"/>
+<area shape="rect" id="node8" title=" " alt="" coords="186,229,249,256"/>
+<area shape="rect" id="node9" title=" " alt="" coords="273,229,337,256"/>
+<area shape="rect" id="node10" title=" " alt="" coords="362,229,425,256"/>
+<area shape="rect" id="node11" title=" " alt="" coords="449,229,513,256"/>
+<area shape="rect" id="node12" title=" " alt="" coords="538,229,601,256"/>
+<area shape="rect" id="node13" title=" " alt="" coords="625,229,700,256"/>
+<area shape="rect" id="node14" title=" " alt="" coords="725,229,795,256"/>
+<area shape="rect" id="node15" title=" " alt="" coords="819,229,890,256"/>
+<area shape="rect" id="node16" title=" " alt="" coords="915,229,979,256"/>
+</map>

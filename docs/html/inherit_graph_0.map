@@ -1,0 +1,9 @@
+<map id="Graphical Class Hierarchy" name="Graphical Class Hierarchy">
+<area shape="rect" id="node1" title=" " alt="" coords="5,132,80,159"/>
+<area shape="rect" id="node2" href="$classdatabaseWindow.html" title="The databaseWindow class is mainly used to use a GUI for inputing a player name into the search bar,..." alt="" coords="182,5,317,32"/>
+<area shape="rect" id="node3" href="$classgameDisplay.html" title="UI displaying points and shot speeds for two players Can handle games with a point threshold for vict..." alt="" coords="195,56,303,83"/>
+<area shape="rect" id="node4" href="$classmatchDisplay.html" title="Simple UI displaying the status of a match (player A and B game wins) Also has a button allowing the ..." alt="" coords="193,107,305,133"/>
+<area shape="rect" id="node5" href="$classplayersettingswindow.html" title="This class is responsible for altering the player objects that were passed to it." alt="" coords="167,157,332,184"/>
+<area shape="rect" id="node6" href="$classtableconfigurationsettingswindow.html" title="The tableconfigurationsettingswindow class is responsible for displaying the GUI that pertains to the..." alt="" coords="128,208,371,235"/>
+<area shape="rect" id="node7" href="$classuserMatchSettingsWindow.html" title="The usermatchsettingswindow class is responsible for displaying the GUI that pertains to the usermatc..." alt="" coords="152,259,347,285"/>
+</map>

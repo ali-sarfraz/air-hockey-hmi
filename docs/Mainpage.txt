@@ -1,0 +1,16 @@
+/*! \mainpage Care-Hockey Table HMI
+ *
+ * \section intro_sec Introduction
+ *
+ * This Doxygen documentation page is intended to provide information related to the source code used in developing the Care-Hockey Table HMI project.
+ * The project goal is to create a HMI or UI for an air-hockey table having the additional features of accessability controls and autonomous opponent play.
+ * Due to development being constrained to a virtualization of the Raspberry PI platform, the air-hockey table and its features were emulated through the code
+ * developed. Additional project functionality includes the storage of previous game data in an associated database. A visualized breakdown of the project can be viewed
+ * below.
+ *
+ *\n
+ *
+ * \image{inline} html ProjectStructure.png "Visualization of Project Scope"
+ *
+ *\n
+ */

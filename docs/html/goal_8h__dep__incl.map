@@ -1,0 +1,12 @@
+<map id="goal.h" name="goal.h">
+<area shape="rect" id="node1" title="Header file used to declare the Goal class. Simple goal class that stores a goal speed in unspecified..." alt="" coords="193,5,255,32"/>
+<area shape="rect" id="node2" href="$game_8h.html" title="Header file used to declare the Game class. The Game class represents a game with two players,..." alt="" coords="139,80,210,107"/>
+<area shape="rect" id="node10" href="$goal_8cpp.html" title="Implementation file used to implement the Goal class." alt="" coords="235,80,312,107"/>
+<area shape="rect" id="node3" href="$game_8cpp.html" title="Implementation file used to implement the Game class." alt="" coords="6,155,93,181"/>
+<area shape="rect" id="node4" href="$gamedisplay_8h.html" title="Header file used to declare the qt5 based gameDisplay class. UI displaying points and shot speeds for..." alt="" coords="117,155,233,181"/>
+<area shape="rect" id="node8" href="$matchdisplay_8h.html" title="Header file used to declare the qt5 based matchDisplay class. Simple UI displaying the status of a ma..." alt="" coords="211,229,331,256"/>
+<area shape="rect" id="node5" href="$gamedisplay_8cpp.html" title="Implementation file used to Implement the qt5 based gameDisplay class." alt="" coords="5,229,136,256"/>
+<area shape="rect" id="node6" href="$mainmenuwindow_8h.html" title="Header file used to declare the usermatchsettings class." alt="" coords="97,304,250,331"/>
+<area shape="rect" id="node7" href="$mainmenuwindow_8cpp.html" title="Implementation file used to implement the mainmenuwindow class." alt="" coords="89,379,257,405"/>
+<area shape="rect" id="node9" href="$matchdisplay_8cpp.html" title="Implementation file used to implent the qt5 based matchDisplay class." alt="" coords="274,304,409,331"/>
+</map>

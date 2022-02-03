@@ -1,0 +1,5 @@
+<map id="gameoutcome.h" name="gameoutcome.h">
+<area shape="rect" id="node1" title="The gameOutcome struct provides a database&#45;friendly structure to store game data." alt="" coords="25,5,153,32"/>
+<area shape="rect" id="node2" href="$mainmenuwindow_8h.html" title="Header file used to declare the usermatchsettings class." alt="" coords="13,80,166,107"/>
+<area shape="rect" id="node3" href="$mainmenuwindow_8cpp.html" title="Implementation file used to implement the mainmenuwindow class." alt="" coords="5,155,173,181"/>
+</map>

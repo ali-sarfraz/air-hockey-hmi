@@ -1,0 +1,4 @@
+<map id="gameDisplay" name="gameDisplay">
+<area shape="rect" id="node1" title="UI displaying points and shot speeds for two players Can handle games with a point threshold for vict..." alt="" coords="5,80,113,107"/>
+<area shape="rect" id="node2" title=" " alt="" coords="22,5,97,32"/>
+</map>

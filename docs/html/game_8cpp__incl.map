@@ -1,0 +1,9 @@
+<map id="game.cpp" name="game.cpp">
+<area shape="rect" id="node1" title="Implementation file used to implement the Game class." alt="" coords="165,5,252,32"/>
+<area shape="rect" id="node2" href="$game_8h.html" title="Header file used to declare the Game class. The Game class represents a game with two players,..." alt="" coords="173,80,244,107"/>
+<area shape="rect" id="node3" href="$goal_8h.html" title="Header file used to declare the Goal class. Simple goal class that stores a goal speed in unspecified..." alt="" coords="5,155,68,181"/>
+<area shape="rect" id="node4" title=" " alt="" coords="92,155,155,181"/>
+<area shape="rect" id="node5" title=" " alt="" coords="179,155,238,181"/>
+<area shape="rect" id="node6" title=" " alt="" coords="262,155,337,181"/>
+<area shape="rect" id="node7" title=" " alt="" coords="361,155,441,181"/>
+</map>

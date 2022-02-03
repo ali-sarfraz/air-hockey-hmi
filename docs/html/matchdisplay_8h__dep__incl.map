@@ -1,0 +1,6 @@
+<map id="matchdisplay.h" name="matchdisplay.h">
+<area shape="rect" id="node1" title="Header file used to declare the qt5 based matchDisplay class. Simple UI displaying the status of a ma..." alt="" coords="113,5,233,32"/>
+<area shape="rect" id="node2" href="$mainmenuwindow_8h.html" title="Header file used to declare the usermatchsettings class." alt="" coords="13,80,166,107"/>
+<area shape="rect" id="node4" href="$matchdisplay_8cpp.html" title="Implementation file used to implent the qt5 based matchDisplay class." alt="" coords="190,80,325,107"/>
+<area shape="rect" id="node3" href="$mainmenuwindow_8cpp.html" title="Implementation file used to implement the mainmenuwindow class." alt="" coords="5,155,173,181"/>
+</map>

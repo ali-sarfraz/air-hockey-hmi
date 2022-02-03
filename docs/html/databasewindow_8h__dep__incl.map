@@ -1,0 +1,6 @@
+<map id="databasewindow.h" name="databasewindow.h">
+<area shape="rect" id="node1" title="Header file used to declare the database GUI window." alt="" coords="103,5,245,32"/>
+<area shape="rect" id="node2" href="$databasewindow_8cpp.html" title="Implementation file used to implement the databasewindow class." alt="" coords="5,80,164,107"/>
+<area shape="rect" id="node3" href="$mainmenuwindow_8h.html" title="Header file used to declare the usermatchsettings class." alt="" coords="188,80,341,107"/>
+<area shape="rect" id="node4" href="$mainmenuwindow_8cpp.html" title="Implementation file used to implement the mainmenuwindow class." alt="" coords="181,155,349,181"/>
+</map>

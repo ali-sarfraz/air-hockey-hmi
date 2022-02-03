@@ -1,0 +1,9 @@
+<map id="matchDisplay" name="matchDisplay">
+<area shape="rect" id="node1" title="Simple UI displaying the status of a match (player A and B game wins) Also has a button allowing the ..." alt="" coords="269,201,381,228"/>
+<area shape="rect" id="node2" title=" " alt="" coords="5,5,80,32"/>
+<area shape="rect" id="node5" href="$classgameDisplay.html" title="UI displaying points and shot speeds for two players Can handle games with a point threshold for vict..." alt="" coords="102,111,210,137"/>
+<area shape="rect" id="node3" href="$classusermatchsettings.html" title="The usermatchsettings class is responsible for creating a standard structure for storing and accessin..." alt="" coords="483,111,626,137"/>
+<area shape="rect" id="node4" href="$classtableconfigurationsettings.html" title="The tableconfigurationsettings class is responsible for creating a standard structure for storing and..." alt="" coords="659,111,851,137"/>
+<area shape="rect" id="node6" href="$classgame.html" title="The Game class represents a game with two players, where each player scores points via Goal objects E..." alt="" coords="104,5,163,32"/>
+<area shape="rect" id="node7" href="$classplayer.html" title="This class is responsible for storing and retrieving information regarding player objects." alt="" coords="257,5,319,32"/>
+</map>

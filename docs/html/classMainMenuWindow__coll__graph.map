@@ -1,0 +1,15 @@
+<map id="MainMenuWindow" name="MainMenuWindow">
+<area shape="rect" id="node1" title="The main menu window class is responsible for displaying the GUI to all the available features in the..." alt="" coords="1152,292,1295,318"/>
+<area shape="rect" id="node2" title=" " alt="" coords="723,12,839,38"/>
+<area shape="rect" id="node3" href="$classplayersettingswindow.html" title="This class is responsible for altering the player objects that were passed to it." alt="" coords="256,120,421,146"/>
+<area shape="rect" id="node4" title=" " alt="" coords="5,197,80,224"/>
+<area shape="rect" id="node7" href="$classtableconfigurationsettingswindow.html" title="The tableconfigurationsettingswindow class is responsible for displaying the GUI that pertains to the..." alt="" coords="660,198,903,225"/>
+<area shape="rect" id="node9" href="$classgameDisplay.html" title="UI displaying points and shot speeds for two players Can handle games with a point threshold for vict..." alt="" coords="285,600,393,626"/>
+<area shape="rect" id="node11" href="$classuserMatchSettingsWindow.html" title="The usermatchsettingswindow class is responsible for displaying the GUI that pertains to the usermatc..." alt="" coords="684,264,879,290"/>
+<area shape="rect" id="node12" href="$classdatabaseWindow.html" title="The databaseWindow class is mainly used to use a GUI for inputing a player name into the search bar,..." alt="" coords="480,66,615,93"/>
+<area shape="rect" id="node13" href="$classmatchDisplay.html" title="Simple UI displaying the status of a match (player A and B game wins) Also has a button allowing the ..." alt="" coords="725,470,837,497"/>
+<area shape="rect" id="node5" href="$classplayer.html" title="This class is responsible for storing and retrieving information regarding player objects." alt="" coords="11,488,74,514"/>
+<area shape="rect" id="node6" href="$classusermatchsettings.html" title="The usermatchsettings class is responsible for creating a standard structure for storing and accessin..." alt="" coords="267,549,410,576"/>
+<area shape="rect" id="node8" href="$classtableconfigurationsettings.html" title="The tableconfigurationsettings class is responsible for creating a standard structure for storing and..." alt="" coords="243,336,435,362"/>
+<area shape="rect" id="node10" href="$classgame.html" title="The Game class represents a game with two players, where each player scores points via Goal objects E..." alt="" coords="13,616,72,642"/>
+</map>

@@ -1,0 +1,4 @@
+<map id="MessageHandler" name="MessageHandler">
+<area shape="rect" id="node1" title="The MessageHandler class is designed using a Singleton design pattern so that one object can be used ..." alt="" coords="5,109,136,136"/>
+<area shape="rect" id="node2" href="$classMessagePacket.html" title="This class is responsible for organizing message packets to be sent to&#45;and&#45;from an embedded system re..." alt="" coords="9,5,132,32"/>
+</map>

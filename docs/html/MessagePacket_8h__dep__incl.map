@@ -1,0 +1,20 @@
+<map id="MessagePacket.h" name="MessagePacket.h">
+<area shape="rect" id="node1" title="Header file used to declare the MessagePacket class. The MessagePacket class is responsible for creat..." alt="" coords="710,5,844,32"/>
+<area shape="rect" id="node2" href="$player_8h.html" title="Header file used to declare the player class." alt="" coords="388,155,462,181"/>
+<area shape="rect" id="node3" href="$gamedisplay_8h.html" title="Header file used to declare the qt5 based gameDisplay class. UI displaying points and shot speeds for..." alt="" coords="746,229,862,256"/>
+<area shape="rect" id="node9" href="$tableconfigurationsettingswindow_8h.html" title="Header file used to declare the tableconfigurationsettingswindow class." alt="" coords="462,229,716,256"/>
+<area shape="rect" id="node14" href="$MessageHandler_8h.html" title="Header file used to declare the MessageHandler class. The MessageHandler class is designed using a Si..." alt="" coords="623,80,766,107"/>
+<area shape="rect" id="node15" href="$tableconfigurationsettings_8h.html" title="Header file used to declare the tableconfigurationsettings class." alt="" coords="871,155,1075,181"/>
+<area shape="rect" id="node18" href="$MessagePacket_8cpp.html" title="Implementation file used to implement the MessagePacket class." alt="" coords="921,80,1070,107"/>
+<area shape="rect" id="node5" href="$mainmenuwindow_8h.html" title="Header file used to declare the usermatchsettings class." alt="" coords="590,379,743,405"/>
+<area shape="rect" id="node7" href="$matchdisplay_8h.html" title="Header file used to declare the qt5 based matchDisplay class. Simple UI displaying the status of a ma..." alt="" coords="841,304,961,331"/>
+<area shape="rect" id="node11" href="$playersettingswindow_8h.html" title="Header file used to declare the playersettingswindow class." alt="" coords="33,229,209,256"/>
+<area shape="rect" id="node13" href="$player_8cpp.html" title="Implementation file used to implement the tableconfigurationsettings class." alt="" coords="298,229,387,256"/>
+<area shape="rect" id="node4" href="$gamedisplay_8cpp.html" title="Implementation file used to Implement the qt5 based gameDisplay class." alt="" coords="636,304,766,331"/>
+<area shape="rect" id="node6" href="$mainmenuwindow_8cpp.html" title="Implementation file used to implement the mainmenuwindow class." alt="" coords="582,453,750,480"/>
+<area shape="rect" id="node8" href="$matchdisplay_8cpp.html" title="Implementation file used to implent the qt5 based matchDisplay class." alt="" coords="834,379,968,405"/>
+<area shape="rect" id="node10" href="$tableconfigurationsettingswindow_8cpp.html" title="Implementation file used to implement the tableconfigurationsettingswindow class." alt="" coords="292,304,560,331"/>
+<area shape="rect" id="node12" href="$playersettingswindow_8cpp.html" title="Implementation file used to implement the playersettingswindow class." alt="" coords="26,304,216,331"/>
+<area shape="rect" id="node17" href="$MessageHandler_8cpp.html" title="Implementation file used to implement the MessageHandler class." alt="" coords="588,155,745,181"/>
+<area shape="rect" id="node16" href="$tableconfigurationsettings_8cpp.html" title="Implementation file used to implement the tableconfigurationsettings class." alt="" coords="1036,229,1254,256"/>
+</map>

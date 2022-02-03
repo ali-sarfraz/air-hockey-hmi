@@ -1,0 +1,12 @@
+<map id="usermatchsettings.h" name="usermatchsettings.h">
+<area shape="rect" id="node1" title="Header file used to declare the usermatchsettings class." alt="" coords="298,5,453,32"/>
+<area shape="rect" id="node2" href="$gamedisplay_8h.html" title="Header file used to declare the qt5 based gameDisplay class. UI displaying points and shot speeds for..." alt="" coords="193,80,309,107"/>
+<area shape="rect" id="node4" href="$mainmenuwindow_8h.html" title="Header file used to declare the usermatchsettings class." alt="" coords="273,229,427,256"/>
+<area shape="rect" id="node6" href="$matchdisplay_8h.html" title="Header file used to declare the qt5 based matchDisplay class. Simple UI displaying the status of a ma..." alt="" coords="13,155,133,181"/>
+<area shape="rect" id="node8" href="$usermatchsettingswindow_8h.html" title="Header file used to declare the usermatchsettingswindow class." alt="" coords="413,80,617,107"/>
+<area shape="rect" id="node10" href="$usermatchsettings_8cpp.html" title="Implementation file used to implement the usermatchsettings class." alt="" coords="642,80,813,107"/>
+<area shape="rect" id="node3" href="$gamedisplay_8cpp.html" title="Implementation file used to Implement the qt5 based gameDisplay class." alt="" coords="157,155,287,181"/>
+<area shape="rect" id="node5" href="$mainmenuwindow_8cpp.html" title="Implementation file used to implement the mainmenuwindow class." alt="" coords="266,304,434,331"/>
+<area shape="rect" id="node7" href="$matchdisplay_8cpp.html" title="Implementation file used to implent the qt5 based matchDisplay class." alt="" coords="5,229,140,256"/>
+<area shape="rect" id="node9" href="$usermatchsettingswindow_8cpp.html" title="Implementation file used to implement the usermatchsettingswindow class." alt="" coords="463,155,682,181"/>
+</map>

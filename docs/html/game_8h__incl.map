@@ -1,0 +1,8 @@
+<map id="game.h" name="game.h">
+<area shape="rect" id="node1" title="Header file used to declare the Game class. The Game class represents a game with two players,..." alt="" coords="173,5,244,32"/>
+<area shape="rect" id="node2" href="$goal_8h.html" title="Header file used to declare the Goal class. Simple goal class that stores a goal speed in unspecified..." alt="" coords="5,80,68,107"/>
+<area shape="rect" id="node3" title=" " alt="" coords="92,80,155,107"/>
+<area shape="rect" id="node4" title=" " alt="" coords="179,80,238,107"/>
+<area shape="rect" id="node5" title=" " alt="" coords="262,80,337,107"/>
+<area shape="rect" id="node6" title=" " alt="" coords="361,80,441,107"/>
+</map>
