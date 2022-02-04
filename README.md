@@ -69,8 +69,8 @@ Should the marking TAs have any questions about how the repository is structured
 do reach out to any one of the team members and we can offer an alternative solution for demonstrating the work we have accomplished.
 
 ## Team Members
-* Matthew Bertuzzi: 250797232, mbertuz@uwo.ca
-* Mohammad Sarfraz: 250860782, msarfra2@uwo.ca
-* Mohammed Iqbal: 250861168, miqbal57@uwo.ca
-* Natalia Bohulevych: 251049015, nbohulev@uwo.ca
-* Sanjayan Kulendran 250846374, skulend2@uwo.ca
+* Ali Sarfraz
+* Matthew Bertuzzi
+* Mohammed Iqbal
+* Natalia Bohulevych
+* Sanjayan Kulendran
